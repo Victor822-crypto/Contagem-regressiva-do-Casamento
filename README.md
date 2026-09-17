@@ -5,7 +5,7 @@ Site estático com contagem regressiva para **17 de outubro de 2026, às 18h**, 
 ## Arquivos
 
 - `index.html`: página completa, estilos e contagem regressiva.
-- `couple.jpeg`: fotografia usada no site.
+- `couple-v2.jpg`: fotografia usada no site (nome versionado para evitar cache da imagem anterior).
 - `render.yaml`: configuração para publicação automática no Render.
 
 ## 1. Publicar no GitHub
@@ -49,4 +49,3 @@ git push -u origin main
 Quando a publicação terminar, o Render fornecerá um endereço público terminado em `.onrender.com`. Os visitantes não precisarão de conta nem de login para acessar o site.
 
 Cada novo commit enviado para a branch principal será publicado automaticamente.
-
