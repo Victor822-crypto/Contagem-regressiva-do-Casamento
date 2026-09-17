@@ -1,0 +1,4 @@
+window.GUESTBOOK_CONFIG = {
+  supabaseUrl: "COLE_AQUI_A_URL_DO_SEU_PROJETO",
+  supabaseAnonKey: "COLE_AQUI_A_CHAVE_PUBLISHABLE_OU_ANON"
+};
