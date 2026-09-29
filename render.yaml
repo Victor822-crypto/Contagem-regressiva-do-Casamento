@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: contagem-regressiva-casamento-2026
-    runtime: static
-    buildCommand: echo "Site estático pronto"
-    staticPublishPath: .
-    autoDeployTrigger: commit
-
